@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "docEyesExists",
+        "transactionLabel": "A test docEyesExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createDocEyes",
+        "transactionLabel": "A test createDocEyes transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readDocEyes",
+        "transactionLabel": "A test readDocEyes transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateDocEyes",
+        "transactionLabel": "A test updateDocEyes transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteDocEyes",
+        "transactionLabel": "A test deleteDocEyes transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
