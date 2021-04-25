@@ -41,9 +41,7 @@ build/Release
 node_modules/
 jspm_packages/
 
-# Back end node modules
-backend/offchain/node_modules
-backend/onchain/node_modules
+
 
 # TypeScript v1 declaration files
 typings/
@@ -106,3 +104,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# Back end node modules
+backend/offchain/node_modules
+backend/onchain/node_modules
+
+# JetBrain
+.idea
+
