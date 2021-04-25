@@ -1,0 +1,28 @@
+DocEyes - Tamper-Proof Document Storage System
+
+
+
+
+1. Documents contain details of agreements, transactions as well as projects and the volume can be huge in todays organizations making them difficult to secure. When multiple parties are doing business together, it is important to trust that exchanged documents are untampered or modified.
+
+
+
+
+2. Blockchain will ensure the sanctity of digital documents and mitigate attacks.
+
+
+
+
+3. 
+
+3.1 The system should allow a user to select repository or folders to be monitored
+
+3.2 The system should notify when monitoring has started
+
+3.3 The system should show current state of repository
+
+3.4 The system should notify when any changes have been made to the repository
+
+3.5 The system should enable user to take action on detected changes such as restore data.
+
+3.6 The system should maintain and show repository history.
