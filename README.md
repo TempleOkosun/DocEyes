@@ -6,6 +6,12 @@
 Information is the cornerstone for doing business and tampering or leaking it can have devastating consequences.
 <hr>
 
+<h2> About me </h2>
+Temple is an emerging blockchain developer with solid 3 years of software development experience. 
+Currently studying Blockchain Development at George Brown College and graduated with a Master Degree in IT 
+from Robert Gordon University Scotland. His present focus is on developing enterprise applications with blockchain technology.
+<hr>
+
 <h2> Motivation </h2>
 The motivation for this project is to address a seemingly small and often neglected but important
 activity for many businesses while developing the skills acquired through the blockchain development program 
@@ -14,6 +20,7 @@ at George Brown College and finally as part of the requirement for the fulfillme
 
 
 <h2> Problem </h2>
+How long will it take you to detect you have become a victim of data tampering?
 Data is one of the most critical assets of an organization and usually prime targets of an attacker. 
 Data tampering can have severe consequences on an organization. Many organization today rely on shared folders or some 
 repo for storing data with valuable transaction details. The volume of documents can be huge and effectively monitoring 
@@ -68,7 +75,7 @@ The above goal gives rise to the following core project objectives.
 <hr>
 
 
-<h2> How Doceyes help with data tampering prevention </h2>
+<h2> How DocEyes help with data tampering prevention </h2>
 Just like a typical File Integrity Monitor which assess system files and generates a cryptographic checksum as a baseline.
 Then repeatedly recalculates the checksum of the same resources, compare with the baseline and generate alert if there is changes.
 Doceyes records hash signatures for documents within a repo using blockchain (Hyperledger Fabric) as the trusted baseline.
