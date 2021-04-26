@@ -16,8 +16,8 @@ at George Brown College and finally as part of the requirement for the fulfillme
 <h2> Problem </h2>
 Data is one of the most critical assets of an organization and usually prime targets of an attacker. 
 Data tampering can have severe consequences on an organization. Many organization today rely on shared folders or some 
-repo for storing data with valuable transaction details. Effectively monitoring such repo to detect either intended or 
-unintended modification is very important.
+repo for storing data with valuable transaction details. The volume of documents can be huge and effectively monitoring 
+such repo to detect either intended or unintended modification is very important.
 <hr>
 
 <h2> Goal </h2>
@@ -64,3 +64,16 @@ The above goal gives rise to the following core project objectives.
     </li>
 </ul>
 <hr>
+
+<h2> User Stories </h2>
+<ul>
+        <li> The system should allow a user to select repository or folders to be monitored. </li>
+        <li> The system should notify when monitoring has started. </li>
+        <li> The system should show current state of repository </li>
+        <li> The system should notify when any changes have been made to the repository. </li>
+        <li> The system should enable user to take action on detected changes such as restore data. </li>
+        <li> The system should maintain and show repository history. </li>
+</ul>
+<hr>
+
+
