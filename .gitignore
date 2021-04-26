@@ -111,5 +111,5 @@ backend/offchain/node_modules
 backend/onchain/node_modules
 
 # JetBrain
-.idea
+.idea/
 
