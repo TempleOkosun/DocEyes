@@ -46,25 +46,6 @@ The above goal gives rise to the following core project objectives.
 
 <hr>
 
-<h2> Sequence Diagram </h2>
-
-![State Diagram](documents/Pics/DocEyes-SeqDiag.png?raw=true) <br>
-<hr>
-
-<h2> Benefits </h2>
-<ul>
-    <li> <strong> Security:  </strong> Blockchain’s inherent property of immutability is used to establish the trusted 
-        baseline to compare latest versions of documents
-    </li>
-     <li> <strong> Build Trust: </strong> Information can be accessible to any partner of the organization authorized 
-        to do so – which provides maximum transparency.
-    </li>
-      <li> <strong> Efficiency: </strong> Modular structure and utilizes asynchronous programming concept to speed up 
-        monitoring and reporting which is usually resource intensive.
-    </li>
-</ul>
-<hr>
-
 <h2> User Stories </h2>
 <ul>
         <li> The system should allow a user to select repository or folders to be monitored. </li>
@@ -75,6 +56,12 @@ The above goal gives rise to the following core project objectives.
         <li> The system should maintain and show repository history. </li>
 </ul>
 <hr>
+
+<h2> Sequence Diagram </h2>
+
+![State Diagram](documents/Pics/DocEyes-SeqDiag.png?raw=true) <br>
+<hr>
+
 
 <h2> How Doceyes help with data tampering prevention </h2>
 Just like a typical File Integrity Monitor which assess system files and generates a cryptographic checksum as a baseline.
@@ -95,6 +82,21 @@ it will throw a notification and inform the user.
             to the user. 
         </li>        
 </ol>
+
+
+<h2> Benefits </h2>
+<ul>
+    <li> <strong> Security:  </strong> Blockchain’s inherent property of immutability is used to establish the trusted 
+        baseline to compare latest versions of documents
+    </li>
+     <li> <strong> Build Trust: </strong> Information can be accessible to any partner of the organization authorized 
+        to do so – which provides maximum transparency.
+    </li>
+      <li> <strong> Efficiency: </strong> Modular structure and utilizes asynchronous programming concept to speed up 
+        monitoring and reporting which is usually resource intensive.
+    </li>
+</ul>
+<hr>
 
 <h2> Other applications and benefits </h2>
 
