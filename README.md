@@ -42,7 +42,7 @@ The above goal gives rise to the following core project objectives.
 
 <h2> Use Case Diagram </h2>
 
-![State Diagram](documents/Pics/DocEyes-UseCaseDiag.png?raw=true) <br>
+![Use Diagram](documents/Pics/DocEyes-UseCaseDiag.png?raw=true) <br>
 
 <hr>
 
@@ -59,7 +59,12 @@ The above goal gives rise to the following core project objectives.
 
 <h2> Sequence Diagram </h2>
 
-![State Diagram](documents/Pics/DocEyes-SeqDiag.png?raw=true) <br>
+![Sequence Diagram](documents/Pics/DocEyes-SeqDiag.png?raw=true) <br>
+<hr>
+
+<h2> Contract Specification Diagram </h2>
+
+![Contract Spec Diagram](documents/Pics/DocEyes-Contract-spec.jpg?raw=true) <br>
 <hr>
 
 
@@ -97,6 +102,21 @@ it will throw a notification and inform the user.
     </li>
 </ul>
 <hr>
+
+<h2> Market Opportunity </h2>
+<ul>
+    <li> According to the National Health Services (NHS), they lost $100 million to the WannaCry ransomware attack.
+    </li>
+     <li> According to Coveware, the average amount of ransom demand increased to $84,116 in the last quarter of 2019.
+    </li>
+      <li> 71% of small to mid-size firms are concerned about electronic document loss, 66% have no prevention strategy. 
+        Leger Marketing Survey
+    </li>
+</ul>
+<hr>
+
+
+
 
 <h2> Other applications and benefits </h2>
 
