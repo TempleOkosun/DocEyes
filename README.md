@@ -76,4 +76,26 @@ The above goal gives rise to the following core project objectives.
 </ul>
 <hr>
 
+<h2> How Doceyes help with data tampering prevention </h2>
+Just like a typical File Integrity Monitor which assess system files and generates a cryptographic checksum as a baseline.
+Then repeatedly recalculates the checksum of the same resources, compare with the baseline and generate alert if there is changes.
+Doceyes records hash signatures for documents within a repo using blockchain (Hyperledger Fabric) as the trusted baseline.
+Then checks at fixed intervals to see whether files have been modified If any changes have been made, 
+it will throw a notification and inform the user.
 
+<h3> Core steps: </h3>
+<ol>
+        <li> Obtain the directory or repo location to be secured </li>
+        <li> Compute the hash of each document in the secured folder </li>
+        <li> Compute the hash of the file tree for the secured directory </li>
+        <li> Compute the hash of an array containing the last modified time for each file in the secured directory. </li>
+        <li> Calculate the File tree hash (FTH) and array of last Modified time hash(MTH) every 5secs </li>
+        <li> If it doesnt match, then a change has occurred. Then validate the hash of each individual file in 
+            secured directory with baseline on blockchain to identify the tampered or new files and display these 
+            to the user. 
+        </li>        
+</ol>
+
+<h2> Other applications and benefits </h2>
+
+<h2> Conclusion </h2>
