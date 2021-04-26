@@ -122,9 +122,26 @@ it will throw a notification and inform the user.
 </ul>
 <hr>
 
-
-
-
 <h2> Other applications and benefits </h2>
+<ul>
+    <li> Since we are dealing directly with hash of documents and not just name, we can identify duplicate files with 
+    different names
+    </li>
+     <li>
+        We can adapt the system to ensure the integrity of public tenders by showing that bids presented are not modified.
+    </li>
+    <li> We can adapt it as well to monitor a repository of regulations to ensure we are complying with latest 
+        requirements. 
+    </li>
+
+</ul>
 
 <h2> Conclusion </h2>
+Information provides the cornerstone for doing business. If it is tampered with or leaked, 
+this will cause irreparable serious damage. DocEyes efficiently monitors document repository through blockchain’s 
+inherent property of immutability and restores tampered or lost data from a distributed storage.
+We can access your need and implement a sound  solution.<br>
+
+Contact us now
+
+
