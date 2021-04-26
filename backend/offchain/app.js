@@ -9,9 +9,6 @@ var logger = require('morgan');
 
 
 // import the routes
-// Default routes
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
 
 // Doceyes routes
 var readFileRouter = require('./routes/hashreadfile');
@@ -38,9 +35,6 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // routes
-// default routes
-app.use('/', indexRouter);
-app.use('/users', usersRouter);
 
 // DocEyes route
 app.use('/hashreadfile', readFileRouter);
