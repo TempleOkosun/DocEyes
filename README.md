@@ -158,6 +158,12 @@ it will throw a notification and inform the user.
     <li> <strong> Restore: </strong> Include functionality to restore tampered data from ipfs </li>
 </ul>
 
+<h2> How to run project </h2>
+<ul>
+    <li>  Details to run the project will be provided towards completion. </li>
+</ul>
+
+
 
 <h2> Conclusion </h2>
 Information provides the cornerstone for doing business. If it is tampered with or leaked, 
