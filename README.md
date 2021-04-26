@@ -49,3 +49,17 @@ The above goal gives rise to the following core project objectives.
 
 ![State Diagram](documents/Pics/DocEyes-SeqDiag.png?raw=true) <br>
 <hr>
+
+<h2> Benefits </h2>
+<ul>
+    <li> <strong> Security:  </strong> Blockchain’s inherent property of immutability is used to establish the trusted 
+        baseline to compare latest versions of documents
+    </li>
+     <li> <strong> Build Trust: </strong> Information can be accessible to any partner of the organization authorized 
+        to do so – which provides maximum transparency.
+    </li>
+      <li> <strong> Efficiency: </strong> Modular structure and utilizes asynchronous programming concept to speed up 
+        monitoring and reporting which is usually resource intensive.
+    </li>
+</ul>
+<hr>
