@@ -136,6 +136,15 @@ it will throw a notification and inform the user.
 
 </ul>
 
+<h2> OTools and technologies used </h2>
+<ul>
+    <li> <strong> Blockchain: </strong>  Hyperledger Fabric  </li>
+    <li> <strong> Backend: </strong> Express </li>
+    <li> <strong> Frontend: </strong> React </li>
+    <li> <strong> Language: </strong> Javascript (Node) </li>
+</ul>
+
+
 <h2> Conclusion </h2>
 Information provides the cornerstone for doing business. If it is tampered with or leaked, 
 this will cause irreparable serious damage. DocEyes efficiently monitors document repository through blockchain’s 
