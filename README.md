@@ -14,7 +14,7 @@ from Robert Gordon University Scotland. His present focus is on developing enter
 
 <h2> Motivation </h2>
 The motivation for this project is to address a seemingly small and often neglected but important
-activity for many businesses while developing the skills acquired through the blockchain development program 
+activity for many businesses while sharpening the skills acquired through the blockchain development program 
 at George Brown College and finally as part of the requirement for the fulfillment of the DAPPII course.
 <hr>
 
@@ -42,7 +42,7 @@ The above goal gives rise to the following core project objectives.
 <h2> Measuring Success </h2>
 <ul>
     <li> A user should be able to see list of files being monitored </li>
-    <li> Modification should be detected with 5secs and user alerted. </li>
+    <li> Modification should be detected within 5secs and user alerted. </li>
     <li> User should be able to take action. Accept modification or restore from ipfs.</li>
 </ul>
 <hr>
@@ -76,7 +76,7 @@ The above goal gives rise to the following core project objectives.
 
 
 <h2> How DocEyes help with data tampering prevention </h2>
-Just like a typical File Integrity Monitor which assess system files and generates a cryptographic checksum as a baseline.
+Just like a typical File Integrity Monitor(FIM) which assess system files and generates a cryptographic checksum as a baseline.
 Then repeatedly recalculates the checksum of the same resources, compare with the baseline and generate alert if there is changes.
 Doceyes records hash signatures for documents within a repo using blockchain (Hyperledger Fabric) as the trusted baseline.
 Then checks at fixed intervals to see whether files have been modified If any changes have been made, 
@@ -98,7 +98,7 @@ it will throw a notification and inform the user.
 
 <h2> Benefits </h2>
 <ul>
-    <li> <strong> Security:  </strong> Blockchain’s inherent property of immutability is used to establish the trusted 
+    <li> <strong> Enhanced Security:  </strong> Blockchain’s inherent property of immutability is used to establish the trusted 
         baseline to compare latest versions of documents
     </li>
      <li> <strong> Build Trust: </strong> Information can be accessible to any partner of the organization authorized 
@@ -136,12 +136,25 @@ it will throw a notification and inform the user.
 
 </ul>
 
-<h2> OTools and technologies used </h2>
+<h2> Tools and technologies used </h2>
 <ul>
     <li> <strong> Blockchain: </strong>  Hyperledger Fabric  </li>
     <li> <strong> Backend: </strong> Express </li>
     <li> <strong> Frontend: </strong> React </li>
     <li> <strong> Language: </strong> Javascript (Node) </li>
+</ul>
+
+
+<h2> Functionalities included in MVP</h2>
+<ul>
+    <li> <strong> Detection: </strong>  Detect changes to a secured directory </li>
+    <li> <strong> Reveal: </strong>  Reveal altered files </li>
+</ul>
+
+
+<h2> To do </h2>
+<ul>
+    <li> <strong> Restore: </strong> Include functionality to restore tampered data from ipfs </li>
 </ul>
 
 
