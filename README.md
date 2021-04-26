@@ -45,6 +45,7 @@ The above goal gives rise to the following core project objectives.
 ![State Diagram](documents/Pics/DocEyes-UseCaseDiag.png?raw=true) <br>
 
 <hr>
+
 <h2> Sequence Diagram </h2>
 
 ![State Diagram](documents/Pics/DocEyes-SeqDiag.png?raw=true) <br>
