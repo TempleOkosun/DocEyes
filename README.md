@@ -142,6 +142,7 @@ it will throw a notification and inform the user.
     <li> <strong> Backend: </strong> Express </li>
     <li> <strong> Frontend: </strong> React </li>
     <li> <strong> Language: </strong> Javascript (Node) </li>
+    <li> <strong> Testing: </strong> Postman for initial manual testing </li>
 </ul>
 
 
