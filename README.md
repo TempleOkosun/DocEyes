@@ -158,11 +158,29 @@ it will throw a notification and inform the user.
     <li> <strong> Restore: </strong> Include functionality to restore tampered data from ipfs </li>
 </ul>
 
+
+
+
+<h2> Expected Frontend Look </h2>
+<h3> Home </h3>
+
+![Home Page Main](documents/Pics/DocEyes-home.png?raw=true) <br>
+
+![Home Page Select](documents/Pics/DocEyes-home2.png?raw=true) <br>
+
+<h3> Monitoring </h3>
+
+![Monitoring Page](documents/Pics/DocEyes-monitoring.png?raw=true) <br>
+
+<h3> Tampered </h3>
+
+![Reporting Page](documents/Pics/DocEyes-tampered.png?raw=true) <br>
+
+
 <h2> How to run project </h2>
 <ul>
     <li>  Details to run the project will be provided towards completion. </li>
 </ul>
-
 
 
 <h2> Conclusion </h2>
